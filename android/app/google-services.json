@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "659820688435",
+    "project_id": "food-reserve-d2f50",
+    "storage_bucket": "food-reserve-d2f50.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:659820688435:android:f253fe5e05050d7db79f46",
+        "android_client_info": {
+          "package_name": "com.example.food_reserve"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDerV-i-Ib04cIcjcthXFSs9q88Yex_NuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
